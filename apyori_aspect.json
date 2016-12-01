@@ -1,0 +1,675 @@
+{"items": [""], "support": 1.0, "ordered_statistics": [{"items_base": [], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "!!"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["!!"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Ambiance"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["Ambiance"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Amma"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["Amma"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Avenue"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["Avenue"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "BEST"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["BEST"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Brooklyn"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["Brooklyn"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Cafe"], "support": 0.0026307135810588623, "ordered_statistics": [{"items_base": ["Cafe"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Chicken"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["Chicken"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Chinatown"], "support": 0.004274909569220651, "ordered_statistics": [{"items_base": ["Chinatown"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "City"], "support": 0.00295955277869122, "ordered_statistics": [{"items_base": ["City"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Decor"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["Decor"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Dim"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["Dim"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "East"], "support": 0.00295955277869122, "ordered_statistics": [{"items_base": ["East"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Everyone"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["Everyone"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Everything"], "support": 0.003946070371588293, "ordered_statistics": [{"items_base": ["Everything"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "FOOD"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["FOOD"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "First"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["First"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Fish"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["Fish"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Food"], "support": 0.006576783952647156, "ordered_statistics": [{"items_base": ["Food"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Friday"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["Friday"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Grand"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["Grand"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Green"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["Green"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Haru"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["Haru"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Heartland"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["Heartland"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "House"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["House"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Hyde"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["Hyde"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Jekyll"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["Jekyll"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Jimmy"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["Jimmy"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Joya"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["Joya"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Kai"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["Kai"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Katz"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["Katz"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "La"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["La"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Lobster"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["Lobster"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Manhattan"], "support": 0.003946070371588293, "ordered_statistics": [{"items_base": ["Manhattan"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Mizu"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["Mizu"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Murray"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["Murray"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "NOT"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["NOT"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "NY"], "support": 0.009536336731338375, "ordered_statistics": [{"items_base": ["NY"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "NYC"], "support": 0.013811246300559027, "ordered_statistics": [{"items_base": ["NYC"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "New"], "support": 0.008549819138441302, "ordered_statistics": [{"items_base": ["New"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Nothing"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["Nothing"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Orsay"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["Orsay"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "PM"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["PM"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Pad"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["Pad"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Paris"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["Paris"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Park"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["Park"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Pizza"], "support": 0.005590266359750082, "ordered_statistics": [{"items_base": ["Pizza"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Prices"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["Prices"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Queens"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["Queens"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Rao"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["Rao"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Restaurant"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["Restaurant"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Roth"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["Roth"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Sake"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["Sake"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Saturday"], "support": 0.0036172311739559354, "ordered_statistics": [{"items_base": ["Saturday"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Saul"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["Saul"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Service"], "support": 0.010194015126603092, "ordered_statistics": [{"items_base": ["Service"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Shanghai"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["Shanghai"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Sichuan"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["Sichuan"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Side"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["Side"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Smith"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["Smith"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Spice"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["Spice"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Spicy"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["Spicy"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Square"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["Square"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "St."], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["St."], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Stay"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["Stay"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Street"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["Street"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Suan"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["Suan"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Sum"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["Sum"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Sunday"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["Sunday"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Sushi"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["Sushi"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Thai"], "support": 0.011180532719500164, "ordered_statistics": [{"items_base": ["Thai"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Toons"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["Toons"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Tuesday"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["Tuesday"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "UES"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["UES"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Upper"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["Upper"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Village"], "support": 0.003946070371588293, "ordered_statistics": [{"items_base": ["Village"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Volare"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["Volare"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "York"], "support": 0.006905623150279513, "ordered_statistics": [{"items_base": ["York"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "addition"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["addition"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "afternoon"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["afternoon"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "alot"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["alot"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "ambiance"], "support": 0.005590266359750082, "ordered_statistics": [{"items_base": ["ambiance"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "ambience"], "support": 0.008220979940808944, "ordered_statistics": [{"items_base": ["ambience"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "amount"], "support": 0.0026307135810588623, "ordered_statistics": [{"items_base": ["amount"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "anniversary"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["anniversary"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "anyone"], "support": 0.0046037487668530086, "ordered_statistics": [{"items_base": ["anyone"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "anything"], "support": 0.0046037487668530086, "ordered_statistics": [{"items_base": ["anything"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "appetizer"], "support": 0.006905623150279513, "ordered_statistics": [{"items_base": ["appetizer"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "appetizers"], "support": 0.005590266359750082, "ordered_statistics": [{"items_base": ["appetizers"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "area"], "support": 0.008220979940808944, "ordered_statistics": [{"items_base": ["area"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "atmosphere"], "support": 0.017099638276882604, "ordered_statistics": [{"items_base": ["atmosphere"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "attitude"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["attitude"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "avenue"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["avenue"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "average"], "support": 0.0026307135810588623, "ordered_statistics": [{"items_base": ["average"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "baby"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["baby"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "bagel"], "support": 0.005261427162117725, "ordered_statistics": [{"items_base": ["bagel"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "bagels"], "support": 0.005590266359750082, "ordered_statistics": [{"items_base": ["bagels"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "bank"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["bank"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "bar"], "support": 0.012824728707661954, "ordered_statistics": [{"items_base": ["bar"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "bartender"], "support": 0.00295955277869122, "ordered_statistics": [{"items_base": ["bartender"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "basil"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["basil"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "beef"], "support": 0.004932587964485367, "ordered_statistics": [{"items_base": ["beef"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "beer"], "support": 0.004274909569220651, "ordered_statistics": [{"items_base": ["beer"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "beers"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["beers"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "bill"], "support": 0.0046037487668530086, "ordered_statistics": [{"items_base": ["bill"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "birthday"], "support": 0.004274909569220651, "ordered_statistics": [{"items_base": ["birthday"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "bistro"], "support": 0.003288391976323578, "ordered_statistics": [{"items_base": ["bistro"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "bit"], "support": 0.01052285432423545, "ordered_statistics": [{"items_base": ["bit"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "bite"], "support": 0.0026307135810588623, "ordered_statistics": [{"items_base": ["bite"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "block"], "support": 0.003288391976323578, "ordered_statistics": [{"items_base": ["block"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "bottle"], "support": 0.00295955277869122, "ordered_statistics": [{"items_base": ["bottle"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "boyfriend"], "support": 0.003946070371588293, "ordered_statistics": [{"items_base": ["boyfriend"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "bread"], "support": 0.0036172311739559354, "ordered_statistics": [{"items_base": ["bread"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "brunch"], "support": 0.0026307135810588623, "ordered_statistics": [{"items_base": ["brunch"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "bucks"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["bucks"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "buffet"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["buffet"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "buns"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["buns"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "burger"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["burger"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "business"], "support": 0.003288391976323578, "ordered_statistics": [{"items_base": ["business"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "cake"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["cake"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "calamari"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["calamari"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "call"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["call"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "case"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["case"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "caviar"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["caviar"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "champagne"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["champagne"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "chance"], "support": 0.00295955277869122, "ordered_statistics": [{"items_base": ["chance"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "check"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["check"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "cheese"], "support": 0.008549819138441302, "ordered_statistics": [{"items_base": ["cheese"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "chef"], "support": 0.005590266359750082, "ordered_statistics": [{"items_base": ["chef"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "chicken"], "support": 0.009865175928970734, "ordered_statistics": [{"items_base": ["chicken"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "chips"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["chips"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "chocolate"], "support": 0.0036172311739559354, "ordered_statistics": [{"items_base": ["chocolate"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "choice"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["choice"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "choices"], "support": 0.0036172311739559354, "ordered_statistics": [{"items_base": ["choices"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "city"], "support": 0.01052285432423545, "ordered_statistics": [{"items_base": ["city"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "co-workers"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["co-workers"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "cod"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["cod"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "comfort"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["comfort"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "comparison"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["comparison"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "congee"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["congee"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "conversation"], "support": 0.0036172311739559354, "ordered_statistics": [{"items_base": ["conversation"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "cooking"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["cooking"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "corner"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["corner"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "cost"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["cost"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "couple"], "support": 0.0046037487668530086, "ordered_statistics": [{"items_base": ["couple"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "course"], "support": 0.005590266359750082, "ordered_statistics": [{"items_base": ["course"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "courses"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["courses"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "crab"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["crab"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "cream"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["cream"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "crowd"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["crowd"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "crust"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["crust"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "cuisine"], "support": 0.006576783952647156, "ordered_statistics": [{"items_base": ["cuisine"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "curry"], "support": 0.0036172311739559354, "ordered_statistics": [{"items_base": ["curry"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "customer"], "support": 0.00295955277869122, "ordered_statistics": [{"items_base": ["customer"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "customers"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["customers"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "date"], "support": 0.007563301545544229, "ordered_statistics": [{"items_base": ["date"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "day"], "support": 0.003288391976323578, "ordered_statistics": [{"items_base": ["day"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "deal"], "support": 0.004932587964485367, "ordered_statistics": [{"items_base": ["deal"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "decor"], "support": 0.008220979940808944, "ordered_statistics": [{"items_base": ["decor"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "deli"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["deli"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "delight"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["delight"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "delivery"], "support": 0.003946070371588293, "ordered_statistics": [{"items_base": ["delivery"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "dessert"], "support": 0.007892140743176587, "ordered_statistics": [{"items_base": ["dessert"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "desserts"], "support": 0.003288391976323578, "ordered_statistics": [{"items_base": ["desserts"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "dining"], "support": 0.007892140743176587, "ordered_statistics": [{"items_base": ["dining"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "dinner"], "support": 0.024662939822426833, "ordered_statistics": [{"items_base": ["dinner"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "disappointment"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["disappointment"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "dish"], "support": 0.009536336731338375, "ordered_statistics": [{"items_base": ["dish"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "dishes"], "support": 0.01611312068398553, "ordered_statistics": [{"items_base": ["dishes"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "door"], "support": 0.004274909569220651, "ordered_statistics": [{"items_base": ["door"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "doubt"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["doubt"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "downtown"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["downtown"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "drink"], "support": 0.003946070371588293, "ordered_statistics": [{"items_base": ["drink"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "drinks"], "support": 0.01183821111476488, "ordered_statistics": [{"items_base": ["drinks"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "duck"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["duck"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "dumplings"], "support": 0.0046037487668530086, "ordered_statistics": [{"items_base": ["dumplings"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "effort"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["effort"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "eggplant"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["eggplant"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "eggs"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["eggs"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "employees"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["employees"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "end"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["end"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "entertainment"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["entertainment"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "entrees"], "support": 0.0026307135810588623, "ordered_statistics": [{"items_base": ["entrees"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "establishment"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["establishment"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "evening"], "support": 0.0046037487668530086, "ordered_statistics": [{"items_base": ["evening"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "everyone"], "support": 0.0036172311739559354, "ordered_statistics": [{"items_base": ["everyone"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "everything"], "support": 0.009207497533706017, "ordered_statistics": [{"items_base": ["everything"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "experience"], "support": 0.018743834265044394, "ordered_statistics": [{"items_base": ["experience"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "experiences"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["experiences"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "fact"], "support": 0.0036172311739559354, "ordered_statistics": [{"items_base": ["fact"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "families"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["families"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "family"], "support": 0.006247944755014798, "ordered_statistics": [{"items_base": ["family"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "fan"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["fan"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "fare"], "support": 0.0026307135810588623, "ordered_statistics": [{"items_base": ["fare"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "favorite"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["favorite"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "favorites"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["favorites"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "feeling"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["feeling"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "fish"], "support": 0.009865175928970734, "ordered_statistics": [{"items_base": ["fish"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "fix"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["fix"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "fixe"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["fixe"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "flavor"], "support": 0.003946070371588293, "ordered_statistics": [{"items_base": ["flavor"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "flavors"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["flavors"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "folks"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["folks"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "food"], "support": 0.13646826701742848, "ordered_statistics": [{"items_base": ["food"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "foods"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["foods"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "freshness"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["freshness"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "friend"], "support": 0.009536336731338375, "ordered_statistics": [{"items_base": ["friend"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "friends"], "support": 0.0147977638934561, "ordered_statistics": [{"items_base": ["friends"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "fries"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["fries"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "front"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["front"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "fun"], "support": 0.006247944755014798, "ordered_statistics": [{"items_base": ["fun"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "fusion"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["fusion"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "garden"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["garden"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "garlic"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["garlic"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "gem"], "support": 0.003288391976323578, "ordered_statistics": [{"items_base": ["gem"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "girlfriend"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["girlfriend"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "girlfriends"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["girlfriends"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "girls"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["girls"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "glass"], "support": 0.005590266359750082, "ordered_statistics": [{"items_base": ["glass"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "glasses"], "support": 0.0026307135810588623, "ordered_statistics": [{"items_base": ["glasses"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "group"], "support": 0.008220979940808944, "ordered_statistics": [{"items_base": ["group"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "groups"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["groups"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "guests"], "support": 0.0026307135810588623, "ordered_statistics": [{"items_base": ["guests"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "guy"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["guy"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "guys"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["guys"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "half"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["half"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "hall"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["hall"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "hand"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["hand"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "hands"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["hands"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "head"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["head"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "home"], "support": 0.004932587964485367, "ordered_statistics": [{"items_base": ["home"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "homemade"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["homemade"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "hostess"], "support": 0.0026307135810588623, "ordered_statistics": [{"items_base": ["hostess"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "hour"], "support": 0.004932587964485367, "ordered_statistics": [{"items_base": ["hour"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "hours"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["hours"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "house"], "support": 0.0036172311739559354, "ordered_statistics": [{"items_base": ["house"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "husband"], "support": 0.00591910555738244, "ordered_statistics": [{"items_base": ["husband"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "ice"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["ice"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "idea"], "support": 0.0026307135810588623, "ordered_statistics": [{"items_base": ["idea"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "ingredients"], "support": 0.003288391976323578, "ordered_statistics": [{"items_base": ["ingredients"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "item"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["item"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "items"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["items"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "jazz"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["jazz"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "job"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["job"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "joint"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["joint"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "joints"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["joints"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "kids"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["kids"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "kind"], "support": 0.003946070371588293, "ordered_statistics": [{"items_base": ["kind"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "kitchen"], "support": 0.003288391976323578, "ordered_statistics": [{"items_base": ["kitchen"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "lack"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["lack"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "lamb"], "support": 0.003946070371588293, "ordered_statistics": [{"items_base": ["lamb"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "level"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["level"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "life"], "support": 0.003288391976323578, "ordered_statistics": [{"items_base": ["life"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "line"], "support": 0.0036172311739559354, "ordered_statistics": [{"items_base": ["line"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "list"], "support": 0.007892140743176587, "ordered_statistics": [{"items_base": ["list"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "lobster"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["lobster"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "location"], "support": 0.0036172311739559354, "ordered_statistics": [{"items_base": ["location"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "look"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["look"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "lot"], "support": 0.007234462347911871, "ordered_statistics": [{"items_base": ["lot"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "lots"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["lots"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "lox"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["lox"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "lunch"], "support": 0.013482407102926669, "ordered_statistics": [{"items_base": ["lunch"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "management"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["management"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "manager"], "support": 0.003946070371588293, "ordered_statistics": [{"items_base": ["manager"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "martini"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["martini"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "matter"], "support": 0.0026307135810588623, "ordered_statistics": [{"items_base": ["matter"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "meal"], "support": 0.014140085498191384, "ordered_statistics": [{"items_base": ["meal"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "meat"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["meat"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "menu"], "support": 0.026307135810588623, "ordered_statistics": [{"items_base": ["menu"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "middle"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["middle"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "midtown"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["midtown"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "mind"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["mind"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "minutes"], "support": 0.006576783952647156, "ordered_statistics": [{"items_base": ["minutes"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "mix"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["mix"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "mom"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["mom"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "moment"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["moment"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "money"], "support": 0.007563301545544229, "ordered_statistics": [{"items_base": ["money"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "month"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["month"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "months"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["months"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "morning"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["morning"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "mouth"], "support": 0.0026307135810588623, "ordered_statistics": [{"items_base": ["mouth"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "mushroom"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["mushroom"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "mushrooms"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["mushrooms"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "music"], "support": 0.004932587964485367, "ordered_statistics": [{"items_base": ["music"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "mussels"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["mussels"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "naan"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["naan"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "name"], "support": 0.00295955277869122, "ordered_statistics": [{"items_base": ["name"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "neighborhood"], "support": 0.010194015126603092, "ordered_statistics": [{"items_base": ["neighborhood"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "night"], "support": 0.018414995067412034, "ordered_statistics": [{"items_base": ["night"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "nights"], "support": 0.0026307135810588623, "ordered_statistics": [{"items_base": ["nights"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "noise"], "support": 0.00295955277869122, "ordered_statistics": [{"items_base": ["noise"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "noodle"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["noodle"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "noodles"], "support": 0.003946070371588293, "ordered_statistics": [{"items_base": ["noodles"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "nothing"], "support": 0.008220979940808944, "ordered_statistics": [{"items_base": ["nothing"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "occasion"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["occasion"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "oil"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["oil"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "one"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["one"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "opinion"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["opinion"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "option"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["option"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "order"], "support": 0.007234462347911871, "ordered_statistics": [{"items_base": ["order"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "others"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["others"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "outside"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["outside"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "owner"], "support": 0.004274909569220651, "ordered_statistics": [{"items_base": ["owner"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "owners"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["owners"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "oysters"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["oysters"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "pad"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["pad"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "part"], "support": 0.0046037487668530086, "ordered_statistics": [{"items_base": ["part"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "party"], "support": 0.0036172311739559354, "ordered_statistics": [{"items_base": ["party"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "pasta"], "support": 0.003946070371588293, "ordered_statistics": [{"items_base": ["pasta"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "pastas"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["pastas"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "pastrami"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["pastrami"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "people"], "support": 0.02071686945083854, "ordered_statistics": [{"items_base": ["people"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "pepper"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["pepper"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "perfection"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["perfection"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "person"], "support": 0.003288391976323578, "ordered_statistics": [{"items_base": ["person"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "phone"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["phone"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "pie"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["pie"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "piece"], "support": 0.0026307135810588623, "ordered_statistics": [{"items_base": ["piece"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "pieces"], "support": 0.0026307135810588623, "ordered_statistics": [{"items_base": ["pieces"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "pizza"], "support": 0.01940151266030911, "ordered_statistics": [{"items_base": ["pizza"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "pizzas"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["pizzas"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "pizzeria"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["pizzeria"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "place"], "support": 0.09207497533706017, "ordered_statistics": [{"items_base": ["place"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "places"], "support": 0.010851693521867807, "ordered_statistics": [{"items_base": ["places"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "plate"], "support": 0.004274909569220651, "ordered_statistics": [{"items_base": ["plate"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "plates"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["plates"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "plenty"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["plenty"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "point"], "support": 0.0026307135810588623, "ordered_statistics": [{"items_base": ["point"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "pork"], "support": 0.0026307135810588623, "ordered_statistics": [{"items_base": ["pork"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "portion"], "support": 0.0036172311739559354, "ordered_statistics": [{"items_base": ["portion"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "portions"], "support": 0.00887865833607366, "ordered_statistics": [{"items_base": ["portions"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "presentation"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["presentation"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "price"], "support": 0.0147977638934561, "ordered_statistics": [{"items_base": ["price"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "prices"], "support": 0.019730351857941468, "ordered_statistics": [{"items_base": ["prices"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "prix"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["prix"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "problem"], "support": 0.003288391976323578, "ordered_statistics": [{"items_base": ["problem"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "problems"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["problems"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "quality"], "support": 0.00887865833607366, "ordered_statistics": [{"items_base": ["quality"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "quantity"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["quantity"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "range"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["range"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "rating"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["rating"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "ravioli"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["ravioli"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "reason"], "support": 0.00295955277869122, "ordered_statistics": [{"items_base": ["reason"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "reservation"], "support": 0.006576783952647156, "ordered_statistics": [{"items_base": ["reservation"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "reservations"], "support": 0.0046037487668530086, "ordered_statistics": [{"items_base": ["reservations"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "rest"], "support": 0.003288391976323578, "ordered_statistics": [{"items_base": ["rest"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "restaurant"], "support": 0.058204537980927326, "ordered_statistics": [{"items_base": ["restaurant"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "restaurants"], "support": 0.01808615586977968, "ordered_statistics": [{"items_base": ["restaurants"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "review"], "support": 0.0036172311739559354, "ordered_statistics": [{"items_base": ["review"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "reviewer"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["reviewer"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "reviews"], "support": 0.006905623150279513, "ordered_statistics": [{"items_base": ["reviews"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "rice"], "support": 0.008549819138441302, "ordered_statistics": [{"items_base": ["rice"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "right"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["right"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "roll"], "support": 0.0036172311739559354, "ordered_statistics": [{"items_base": ["roll"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "rolls"], "support": 0.005261427162117725, "ordered_statistics": [{"items_base": ["rolls"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "room"], "support": 0.005261427162117725, "ordered_statistics": [{"items_base": ["room"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "sake"], "support": 0.003288391976323578, "ordered_statistics": [{"items_base": ["sake"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "salad"], "support": 0.00591910555738244, "ordered_statistics": [{"items_base": ["salad"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "salads"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["salads"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "salmon"], "support": 0.003288391976323578, "ordered_statistics": [{"items_base": ["salmon"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "salt"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["salt"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "sandwich"], "support": 0.0046037487668530086, "ordered_statistics": [{"items_base": ["sandwich"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "sandwiches"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["sandwiches"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "sashimi"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["sashimi"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "saturday"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["saturday"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "sauce"], "support": 0.008220979940808944, "ordered_statistics": [{"items_base": ["sauce"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "scene"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["scene"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "sea"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["sea"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "seafood"], "support": 0.004274909569220651, "ordered_statistics": [{"items_base": ["seafood"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "seat"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["seat"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "seating"], "support": 0.00295955277869122, "ordered_statistics": [{"items_base": ["seating"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "secret"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["secret"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "section"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["section"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "selection"], "support": 0.006576783952647156, "ordered_statistics": [{"items_base": ["selection"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "selections"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["selections"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "sense"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["sense"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "server"], "support": 0.0026307135810588623, "ordered_statistics": [{"items_base": ["server"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "servers"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["servers"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "service"], "support": 0.06971390989805985, "ordered_statistics": [{"items_base": ["service"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "setting"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["setting"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "share"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["share"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "show"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["show"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "shrimp"], "support": 0.004274909569220651, "ordered_statistics": [{"items_base": ["shrimp"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "side"], "support": 0.006576783952647156, "ordered_statistics": [{"items_base": ["side"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "sides"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["sides"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "size"], "support": 0.00295955277869122, "ordered_statistics": [{"items_base": ["size"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "sizes"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["sizes"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "slice"], "support": 0.0026307135810588623, "ordered_statistics": [{"items_base": ["slice"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "smile"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["smile"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "someone"], "support": 0.0036172311739559354, "ordered_statistics": [{"items_base": ["someone"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "something"], "support": 0.0036172311739559354, "ordered_statistics": [{"items_base": ["something"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "soup"], "support": 0.004932587964485367, "ordered_statistics": [{"items_base": ["soup"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "space"], "support": 0.00295955277869122, "ordered_statistics": [{"items_base": ["space"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "specials"], "support": 0.005590266359750082, "ordered_statistics": [{"items_base": ["specials"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "spice"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["spice"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "spicy"], "support": 0.0046037487668530086, "ordered_statistics": [{"items_base": ["spicy"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "spinach"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["spinach"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "spot"], "support": 0.009536336731338375, "ordered_statistics": [{"items_base": ["spot"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "staff"], "support": 0.023018743834265044, "ordered_statistics": [{"items_base": ["staff"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "steak"], "support": 0.0046037487668530086, "ordered_statistics": [{"items_base": ["steak"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "stomach"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["stomach"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "street"], "support": 0.004932587964485367, "ordered_statistics": [{"items_base": ["street"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "stuff"], "support": 0.0026307135810588623, "ordered_statistics": [{"items_base": ["stuff"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "style"], "support": 0.0026307135810588623, "ordered_statistics": [{"items_base": ["style"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "sum"], "support": 0.004274909569220651, "ordered_statistics": [{"items_base": ["sum"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "summer"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["summer"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "surprise"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["surprise"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "sushi"], "support": 0.015126603091088459, "ordered_statistics": [{"items_base": ["sushi"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "table"], "support": 0.02071686945083854, "ordered_statistics": [{"items_base": ["table"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "tables"], "support": 0.005261427162117725, "ordered_statistics": [{"items_base": ["tables"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "takeout"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["takeout"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "taste"], "support": 0.006576783952647156, "ordered_statistics": [{"items_base": ["taste"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "tastes"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["tastes"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "tasting"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["tasting"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "tea"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["tea"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "tempura"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["tempura"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "terms"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["terms"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "thai"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["thai"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "thing"], "support": 0.00591910555738244, "ordered_statistics": [{"items_base": ["thing"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "things"], "support": 0.003288391976323578, "ordered_statistics": [{"items_base": ["things"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "time"], "support": 0.025649457415323908, "ordered_statistics": [{"items_base": ["time"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "times"], "support": 0.020388030253206183, "ordered_statistics": [{"items_base": ["times"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "tip"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["tip"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "tiramisu"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["tiramisu"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "toast"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["toast"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "tomato"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["tomato"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "top"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["top"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "toppings"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["toppings"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "touch"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["touch"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "town"], "support": 0.006247944755014798, "ordered_statistics": [{"items_base": ["town"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "traffic"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["traffic"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "trip"], "support": 0.0036172311739559354, "ordered_statistics": [{"items_base": ["trip"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "trouble"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["trouble"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "try"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["try"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "tuna"], "support": 0.004932587964485367, "ordered_statistics": [{"items_base": ["tuna"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "type"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["type"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "vacation"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["vacation"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "value"], "support": 0.005590266359750082, "ordered_statistics": [{"items_base": ["value"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "variety"], "support": 0.003288391976323578, "ordered_statistics": [{"items_base": ["variety"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "vegetables"], "support": 0.0026307135810588623, "ordered_statistics": [{"items_base": ["vegetables"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "vibe"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["vibe"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "view"], "support": 0.0026307135810588623, "ordered_statistics": [{"items_base": ["view"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "village"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["village"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "visit"], "support": 0.00591910555738244, "ordered_statistics": [{"items_base": ["visit"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "wait"], "support": 0.010194015126603092, "ordered_statistics": [{"items_base": ["wait"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "waiter"], "support": 0.00887865833607366, "ordered_statistics": [{"items_base": ["waiter"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "waiters"], "support": 0.0036172311739559354, "ordered_statistics": [{"items_base": ["waiters"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "waitress"], "support": 0.005261427162117725, "ordered_statistics": [{"items_base": ["waitress"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "waitstaff"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["waitstaff"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "wallet"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["wallet"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "water"], "support": 0.004274909569220651, "ordered_statistics": [{"items_base": ["water"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "way"], "support": 0.011509371917132522, "ordered_statistics": [{"items_base": ["way"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "website"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["website"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "week"], "support": 0.005261427162117725, "ordered_statistics": [{"items_base": ["week"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "weekend"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["weekend"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "weekends"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["weekends"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "wife"], "support": 0.004274909569220651, "ordered_statistics": [{"items_base": ["wife"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "wine"], "support": 0.02236106543900033, "ordered_statistics": [{"items_base": ["wine"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "wines"], "support": 0.00295955277869122, "ordered_statistics": [{"items_base": ["wines"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "work"], "support": 0.003288391976323578, "ordered_statistics": [{"items_base": ["work"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "world"], "support": 0.004932587964485367, "ordered_statistics": [{"items_base": ["world"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "year"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["year"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "years"], "support": 0.009536336731338375, "ordered_statistics": [{"items_base": ["years"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["Dim", "Sum"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["Dim"], "items_add": ["Sum"], "confidence": 1.0, "lift": 760.25}, {"items_base": ["Sum"], "items_add": ["Dim"], "confidence": 1.0, "lift": 760.25}]}
+{"items": ["East", "Village"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["East"], "items_add": ["Village"], "confidence": 0.5555555555555556, "lift": 140.78703703703704}]}
+{"items": ["Hyde", "Jekyll"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["Hyde"], "items_add": ["Jekyll"], "confidence": 1.0, "lift": 608.1999999999999}, {"items_base": ["Jekyll"], "items_add": ["Hyde"], "confidence": 0.8, "lift": 608.2}]}
+{"items": ["New", "York"], "support": 0.006905623150279513, "ordered_statistics": [{"items_base": ["New"], "items_add": ["York"], "confidence": 0.8076923076923077, "lift": 116.96153846153847}, {"items_base": ["York"], "items_add": ["New"], "confidence": 1.0, "lift": 116.96153846153847}]}
+{"items": ["Saturday", "night"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["Saturday"], "items_add": ["night"], "confidence": 0.5454545454545455, "lift": 29.620129870129876}]}
+{"items": ["Smith", "Street"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["Smith"], "items_add": ["Street"], "confidence": 0.8, "lift": 347.5428571428572}, {"items_base": ["Street"], "items_add": ["Smith"], "confidence": 0.5714285714285715, "lift": 347.5428571428572}]}
+{"items": ["average", "food"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["average"], "items_add": ["food"], "confidence": 0.5, "lift": 3.6638554216867467}]}
+{"items": ["buffet", "lunch"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["buffet"], "items_add": ["lunch"], "confidence": 0.8, "lift": 59.33658536585366}]}
+{"items": ["girls", "night"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["girls"], "items_add": ["night"], "confidence": 0.6666666666666666, "lift": 36.202380952380956}]}
+{"items": ["glasses", "wine"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["glasses"], "items_add": ["wine"], "confidence": 0.5, "lift": 22.360294117647058}]}
+{"items": ["list", "wine"], "support": 0.00591910555738244, "ordered_statistics": [{"items_base": ["list"], "items_add": ["wine"], "confidence": 0.75, "lift": 33.54044117647059}]}
+{"items": ["menu", "section"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["section"], "items_add": ["menu"], "confidence": 1.0, "lift": 38.012499999999996}]}
+{"items": ["sauce", "tomato"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["tomato"], "items_add": ["sauce"], "confidence": 0.8, "lift": 97.31200000000001}]}
+{"items": ["", "Chinatown", "place"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["Chinatown", "place"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Chinatown", "restaurants"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["Chinatown", "restaurants"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "City", "New"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["City", "New"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "City", "York"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["City", "York"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Dim", "Sum"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["", "Dim"], "items_add": ["Sum"], "confidence": 1.0, "lift": 760.25}, {"items_base": ["", "Sum"], "items_add": ["Dim"], "confidence": 1.0, "lift": 760.25}, {"items_base": ["Dim", "Sum"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "East", "Village"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["", "East"], "items_add": ["Village"], "confidence": 0.5555555555555556, "lift": 140.78703703703704}, {"items_base": ["East", "Village"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Hyde", "Jekyll"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["", "Hyde"], "items_add": ["Jekyll"], "confidence": 1.0, "lift": 608.1999999999999}, {"items_base": ["", "Jekyll"], "items_add": ["Hyde"], "confidence": 0.8, "lift": 608.2}, {"items_base": ["Hyde", "Jekyll"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "NY", "food"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["NY", "food"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "NY", "place"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["NY", "place"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "NY", "places"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["NY", "places"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "NYC", "pizza"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["NYC", "pizza"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "NYC", "place"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["NYC", "place"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "NYC", "places"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["NYC", "places"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "NYC", "restaurant"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["NYC", "restaurant"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "New", "York"], "support": 0.006905623150279513, "ordered_statistics": [{"items_base": ["", "New"], "items_add": ["York"], "confidence": 0.8076923076923077, "lift": 116.96153846153847}, {"items_base": ["", "York"], "items_add": ["New"], "confidence": 1.0, "lift": 116.96153846153847}, {"items_base": ["New", "York"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "New", "food"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["New", "food"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "New", "place"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["New", "place"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "New", "restaurant"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["New", "restaurant"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Saturday", "night"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["", "Saturday"], "items_add": ["night"], "confidence": 0.5454545454545455, "lift": 29.620129870129876}, {"items_base": ["Saturday", "night"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Service", "food"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["Service", "food"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Smith", "Street"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["", "Smith"], "items_add": ["Street"], "confidence": 0.8, "lift": 347.5428571428572}, {"items_base": ["", "Street"], "items_add": ["Smith"], "confidence": 0.5714285714285715, "lift": 347.5428571428572}, {"items_base": ["Smith", "Street"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Thai", "food"], "support": 0.003946070371588293, "ordered_statistics": [{"items_base": ["Thai", "food"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Thai", "noodles"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["Thai", "noodles"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Thai", "place"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["Thai", "place"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Thai", "restaurant"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["Thai", "restaurant"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "York", "food"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["York", "food"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "York", "place"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["York", "place"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "York", "restaurant"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["York", "restaurant"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "ambiance", "food"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["ambiance", "food"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "ambiance", "service"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["ambiance", "service"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "ambience", "food"], "support": 0.003946070371588293, "ordered_statistics": [{"items_base": ["ambience", "food"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "ambience", "service"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["ambience", "service"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "anyone", "place"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["anyone", "place"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "appetizers", "food"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["appetizers", "food"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "area", "food"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["area", "food"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "area", "place"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["area", "place"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "area", "service"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["area", "service"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "atmosphere", "food"], "support": 0.005261427162117725, "ordered_statistics": [{"items_base": ["atmosphere", "food"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "atmosphere", "place"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["atmosphere", "place"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "atmosphere", "prices"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["atmosphere", "prices"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "atmosphere", "restaurant"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["atmosphere", "restaurant"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "atmosphere", "service"], "support": 0.0046037487668530086, "ordered_statistics": [{"items_base": ["atmosphere", "service"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "average", "food"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["", "average"], "items_add": ["food"], "confidence": 0.5, "lift": 3.6638554216867467}, {"items_base": ["average", "food"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "bar", "bartender"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["bar", "bartender"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "bar", "food"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["bar", "food"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "bar", "restaurant"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["bar", "restaurant"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "bar", "staff"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["bar", "staff"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "bar", "sushi"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["bar", "sushi"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "bit", "food"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["bit", "food"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "bit", "restaurant"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["bit", "restaurant"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "bit", "service"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["bit", "service"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "bottle", "wine"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["bottle", "wine"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "buffet", "lunch"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["", "buffet"], "items_add": ["lunch"], "confidence": 0.8, "lift": 59.33658536585366}, {"items_base": ["buffet", "lunch"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "cheese", "pizza"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["cheese", "pizza"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "cheese", "wine"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["cheese", "wine"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "chef", "fish"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["chef", "fish"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "chicken", "dishes"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["chicken", "dishes"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "chicken", "food"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["chicken", "food"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "chicken", "sauce"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["chicken", "sauce"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "chocolate", "dessert"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["chocolate", "dessert"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "city", "food"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["city", "food"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "city", "places"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["city", "places"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "city", "restaurant"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["city", "restaurant"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "city", "restaurants"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["city", "restaurants"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "course", "food"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["course", "food"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "date", "place"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["date", "place"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "date", "spot"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["date", "spot"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "decor", "food"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["decor", "food"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "decor", "place"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["decor", "place"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "decor", "service"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["decor", "service"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "dining", "experience"], "support": 0.003288391976323578, "ordered_statistics": [{"items_base": ["dining", "experience"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "dinner", "drinks"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["dinner", "drinks"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "dinner", "friends"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["dinner", "friends"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "dinner", "lunch"], "support": 0.003288391976323578, "ordered_statistics": [{"items_base": ["dinner", "lunch"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "dinner", "night"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["dinner", "night"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "dinner", "place"], "support": 0.00295955277869122, "ordered_statistics": [{"items_base": ["dinner", "place"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "dinner", "restaurant"], "support": 0.0026307135810588623, "ordered_statistics": [{"items_base": ["dinner", "restaurant"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "dinner", "table"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["dinner", "table"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "dish", "dishes"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["dish", "dishes"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "dish", "food"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["dish", "food"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "dish", "portions"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["dish", "portions"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "dishes", "food"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["dishes", "food"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "dishes", "menu"], "support": 0.0026307135810588623, "ordered_statistics": [{"items_base": ["dishes", "menu"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "door", "food"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["door", "food"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "drinks", "food"], "support": 0.00295955277869122, "ordered_statistics": [{"items_base": ["drinks", "food"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "drinks", "people"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["drinks", "people"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "drinks", "place"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["drinks", "place"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "everything", "food"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["everything", "food"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "everything", "menu"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["everything", "menu"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "everything", "service"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["everything", "service"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "everything", "sushi"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["everything", "sushi"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "experience", "food"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["experience", "food"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "experience", "people"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["experience", "people"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "experience", "restaurant"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["experience", "restaurant"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "fish", "sushi"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["fish", "sushi"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "food", "fun"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["food", "fun"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "food", "list"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["food", "list"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "food", "lot"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["food", "lot"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "food", "lunch"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["food", "lunch"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "food", "menu"], "support": 0.004274909569220651, "ordered_statistics": [{"items_base": ["food", "menu"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "food", "money"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["food", "money"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "food", "neighborhood"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["food", "neighborhood"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "food", "night"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["food", "night"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "food", "nothing"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["food", "nothing"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "food", "part"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["food", "part"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "food", "people"], "support": 0.0046037487668530086, "ordered_statistics": [{"items_base": ["food", "people"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "food", "place"], "support": 0.011180532719500164, "ordered_statistics": [{"items_base": ["food", "place"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "food", "places"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["food", "places"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "food", "portions"], "support": 0.003288391976323578, "ordered_statistics": [{"items_base": ["food", "portions"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "food", "price"], "support": 0.004274909569220651, "ordered_statistics": [{"items_base": ["food", "price"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "food", "prices"], "support": 0.006576783952647156, "ordered_statistics": [{"items_base": ["food", "prices"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "food", "quality"], "support": 0.003946070371588293, "ordered_statistics": [{"items_base": ["food", "quality"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "food", "restaurant"], "support": 0.006905623150279513, "ordered_statistics": [{"items_base": ["food", "restaurant"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "food", "restaurants"], "support": 0.0036172311739559354, "ordered_statistics": [{"items_base": ["food", "restaurants"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "food", "sauce"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["food", "sauce"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "food", "service"], "support": 0.025649457415323908, "ordered_statistics": [{"items_base": ["food", "service"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "food", "staff"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["food", "staff"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "food", "time"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["food", "time"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "food", "times"], "support": 0.0026307135810588623, "ordered_statistics": [{"items_base": ["food", "times"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "food", "wait"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["food", "wait"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "food", "waiter"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["food", "waiter"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "food", "wine"], "support": 0.004274909569220651, "ordered_statistics": [{"items_base": ["food", "wine"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "food", "years"], "support": 0.003288391976323578, "ordered_statistics": [{"items_base": ["food", "years"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "friend", "restaurant"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["friend", "restaurant"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "friends", "night"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["friends", "night"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "friends", "place"], "support": 0.0036172311739559354, "ordered_statistics": [{"items_base": ["friends", "place"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "fun", "place"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["fun", "place"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "girls", "night"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["", "girls"], "items_add": ["night"], "confidence": 0.6666666666666666, "lift": 36.202380952380956}, {"items_base": ["girls", "night"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "glass", "wine"], "support": 0.0026307135810588623, "ordered_statistics": [{"items_base": ["glass", "wine"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "glasses", "wine"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["", "glasses"], "items_add": ["wine"], "confidence": 0.5, "lift": 22.360294117647058}, {"items_base": ["glasses", "wine"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "group", "service"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["group", "service"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "house", "wine"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["house", "wine"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "kind", "place"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["kind", "place"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "list", "wine"], "support": 0.00591910555738244, "ordered_statistics": [{"items_base": ["", "list"], "items_add": ["wine"], "confidence": 0.75, "lift": 33.54044117647059}, {"items_base": ["list", "wine"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "lot", "place"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["lot", "place"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "lunch", "place"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["lunch", "place"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "lunch", "times"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["lunch", "times"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "meal", "wine"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["meal", "wine"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "menu", "restaurant"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["menu", "restaurant"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "menu", "section"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["", "section"], "items_add": ["menu"], "confidence": 1.0, "lift": 38.012499999999996}, {"items_base": ["menu", "section"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "menu", "service"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["menu", "service"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "menu", "staff"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["menu", "staff"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "menu", "wine"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["menu", "wine"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "minutes", "reservation"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["minutes", "reservation"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "neighborhood", "place"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["neighborhood", "place"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "night", "place"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["night", "place"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "night", "reservation"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["night", "reservation"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "night", "restaurant"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["night", "restaurant"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "night", "spot"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["night", "spot"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "order", "waitress"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["order", "waitress"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "people", "place"], "support": 0.00295955277869122, "ordered_statistics": [{"items_base": ["people", "place"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "people", "restaurant"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["people", "restaurant"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "pizza", "place"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["pizza", "place"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "pizza", "salad"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["pizza", "salad"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "place", "prices"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["place", "prices"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "place", "quality"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["place", "quality"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "place", "restaurant"], "support": 0.0026307135810588623, "ordered_statistics": [{"items_base": ["place", "restaurant"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "place", "restaurants"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["place", "restaurants"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "place", "reviews"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["place", "reviews"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "place", "service"], "support": 0.004274909569220651, "ordered_statistics": [{"items_base": ["place", "service"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "place", "staff"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["place", "staff"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "place", "street"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["place", "street"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "place", "sushi"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["place", "sushi"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "place", "time"], "support": 0.00295955277869122, "ordered_statistics": [{"items_base": ["place", "time"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "place", "times"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["place", "times"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "place", "town"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["place", "town"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "place", "value"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["place", "value"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "place", "wine"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["place", "wine"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "price", "service"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["price", "service"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "prices", "service"], "support": 0.0026307135810588623, "ordered_statistics": [{"items_base": ["prices", "service"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "quality", "service"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["quality", "service"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "restaurant", "restaurants"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["restaurant", "restaurants"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "restaurant", "reviews"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["restaurant", "reviews"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "restaurant", "service"], "support": 0.0026307135810588623, "ordered_statistics": [{"items_base": ["restaurant", "service"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "restaurant", "time"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["restaurant", "time"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "restaurant", "times"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["restaurant", "times"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "restaurant", "town"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["restaurant", "town"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "restaurant", "way"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["restaurant", "way"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "restaurant", "week"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["restaurant", "week"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "restaurants", "service"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["restaurants", "service"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "sauce", "tomato"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["", "tomato"], "items_add": ["sauce"], "confidence": 0.8, "lift": 97.31200000000001}, {"items_base": ["sauce", "tomato"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "selection", "wine"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["selection", "wine"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "service", "staff"], "support": 0.0026307135810588623, "ordered_statistics": [{"items_base": ["service", "staff"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "service", "table"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["service", "table"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "service", "thing"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["service", "thing"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "service", "time"], "support": 0.0019730351857941467, "ordered_statistics": [{"items_base": ["service", "time"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "service", "times"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["service", "times"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "service", "wine"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["service", "wine"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "staff", "wait"], "support": 0.00295955277869122, "ordered_statistics": [{"items_base": ["staff", "wait"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["City", "New", "York"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["City", "New"], "items_add": ["York"], "confidence": 1.0, "lift": 144.80952380952382}, {"items_base": ["City", "York"], "items_add": ["New"], "confidence": 1.0, "lift": 116.96153846153847}]}
+{"items": ["New", "York", "food"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["New", "food"], "items_add": ["York"], "confidence": 1.0, "lift": 144.80952380952382}, {"items_base": ["York", "food"], "items_add": ["New"], "confidence": 1.0, "lift": 116.96153846153847}]}
+{"items": ["New", "York", "place"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["New", "place"], "items_add": ["York"], "confidence": 1.0, "lift": 144.80952380952382}, {"items_base": ["York", "place"], "items_add": ["New"], "confidence": 1.0, "lift": 116.96153846153847}]}
+{"items": ["New", "York", "restaurant"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["New", "restaurant"], "items_add": ["York"], "confidence": 0.8, "lift": 115.84761904761905}, {"items_base": ["York", "restaurant"], "items_add": ["New"], "confidence": 1.0, "lift": 116.96153846153847}]}
+{"items": ["ambience", "food", "service"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["ambience", "service"], "items_add": ["food"], "confidence": 0.5714285714285715, "lift": 4.187263339070569}]}
+{"items": ["atmosphere", "food", "service"], "support": 0.0023018743834265043, "ordered_statistics": [{"items_base": ["atmosphere", "service"], "items_add": ["food"], "confidence": 0.5, "lift": 3.6638554216867467}]}
+{"items": ["food", "list", "wine"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["food", "list"], "items_add": ["wine"], "confidence": 1.0, "lift": 44.720588235294116}]}
+{"items": ["food", "prices", "service"], "support": 0.001644195988161789, "ordered_statistics": [{"items_base": ["prices", "service"], "items_add": ["food"], "confidence": 0.625, "lift": 4.579819277108434}]}
+{"items": ["food", "service", "time"], "support": 0.0013153567905294311, "ordered_statistics": [{"items_base": ["food", "time"], "items_add": ["service"], "confidence": 0.6666666666666666, "lift": 9.562893081761006}, {"items_base": ["service", "time"], "items_add": ["food"], "confidence": 0.6666666666666666, "lift": 4.885140562248996}]}

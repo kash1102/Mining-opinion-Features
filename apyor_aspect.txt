@@ -1,0 +1,38 @@
+{"items": [""], "support": 1.0, "ordered_statistics": [{"items_base": [], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "NYC"], "support": 0.013811246300559027, "ordered_statistics": [{"items_base": ["NYC"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Service"], "support": 0.010194015126603092, "ordered_statistics": [{"items_base": ["Service"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "Thai"], "support": 0.011180532719500164, "ordered_statistics": [{"items_base": ["Thai"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "atmosphere"], "support": 0.017099638276882604, "ordered_statistics": [{"items_base": ["atmosphere"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "bar"], "support": 0.012824728707661954, "ordered_statistics": [{"items_base": ["bar"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "bit"], "support": 0.01052285432423545, "ordered_statistics": [{"items_base": ["bit"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "city"], "support": 0.01052285432423545, "ordered_statistics": [{"items_base": ["city"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "dinner"], "support": 0.024662939822426833, "ordered_statistics": [{"items_base": ["dinner"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "dishes"], "support": 0.01611312068398553, "ordered_statistics": [{"items_base": ["dishes"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "drinks"], "support": 0.01183821111476488, "ordered_statistics": [{"items_base": ["drinks"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "experience"], "support": 0.018743834265044394, "ordered_statistics": [{"items_base": ["experience"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "food"], "support": 0.13646826701742848, "ordered_statistics": [{"items_base": ["food"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "friends"], "support": 0.0147977638934561, "ordered_statistics": [{"items_base": ["friends"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "lunch"], "support": 0.013482407102926669, "ordered_statistics": [{"items_base": ["lunch"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "meal"], "support": 0.014140085498191384, "ordered_statistics": [{"items_base": ["meal"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "menu"], "support": 0.026307135810588623, "ordered_statistics": [{"items_base": ["menu"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "neighborhood"], "support": 0.010194015126603092, "ordered_statistics": [{"items_base": ["neighborhood"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "night"], "support": 0.018414995067412034, "ordered_statistics": [{"items_base": ["night"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "people"], "support": 0.02071686945083854, "ordered_statistics": [{"items_base": ["people"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "pizza"], "support": 0.01940151266030911, "ordered_statistics": [{"items_base": ["pizza"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "place"], "support": 0.09207497533706017, "ordered_statistics": [{"items_base": ["place"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "places"], "support": 0.010851693521867807, "ordered_statistics": [{"items_base": ["places"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "price"], "support": 0.0147977638934561, "ordered_statistics": [{"items_base": ["price"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "prices"], "support": 0.019730351857941468, "ordered_statistics": [{"items_base": ["prices"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "restaurant"], "support": 0.058204537980927326, "ordered_statistics": [{"items_base": ["restaurant"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "restaurants"], "support": 0.01808615586977968, "ordered_statistics": [{"items_base": ["restaurants"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "service"], "support": 0.06971390989805985, "ordered_statistics": [{"items_base": ["service"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "staff"], "support": 0.023018743834265044, "ordered_statistics": [{"items_base": ["staff"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "sushi"], "support": 0.015126603091088459, "ordered_statistics": [{"items_base": ["sushi"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "table"], "support": 0.02071686945083854, "ordered_statistics": [{"items_base": ["table"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "time"], "support": 0.025649457415323908, "ordered_statistics": [{"items_base": ["time"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "times"], "support": 0.020388030253206183, "ordered_statistics": [{"items_base": ["times"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "wait"], "support": 0.010194015126603092, "ordered_statistics": [{"items_base": ["wait"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "way"], "support": 0.011509371917132522, "ordered_statistics": [{"items_base": ["way"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "wine"], "support": 0.02236106543900033, "ordered_statistics": [{"items_base": ["wine"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "food", "place"], "support": 0.011180532719500164, "ordered_statistics": [{"items_base": ["food", "place"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
+{"items": ["", "food", "service"], "support": 0.025649457415323908, "ordered_statistics": [{"items_base": ["food", "service"], "items_add": [""], "confidence": 1.0, "lift": 1.0}]}
